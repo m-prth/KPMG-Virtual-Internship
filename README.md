@@ -1,7 +1,7 @@
 # KPMG Virtual Internship
 >By Parth Mistry
 
-* It was a virtual Internship Experience provided by KPMG Australia om Insidesherpa.
+* It was a virtual Internship Experience provided by KPMG Australia on Insidesherpa.
 
 * This internship gave me an oppurtunity to get an insight into the day to day development workflow of KPMG.
 
@@ -29,9 +29,11 @@ The use of visualizations to present data insights. I now know about Data dashbo
 
 ## My Work:
 
-* [Jupyter Notebook]()
-* [Data Quality Assessment Response]()
-* [Presentation on Data Insights]()
-* [Tableau Dashboard]() 
+* [Jupyter Notebook](https://github.com/m-prth/KPMG-Virtual-Internship/blob/master/Notebook.ipynb)
+* [Data Quality Assessment Response](https://github.com/m-prth/KPMG-Virtual-Internship/blob/master/Module_1.docx)
+* [Presentation on Data Insights](https://github.com/m-prth/KPMG-Virtual-Internship/blob/master/Module_2.pptx)
+* [Tableau Dashboard](https://github.com/m-prth/KPMG-Virtual-Internship/blob/master/Dashboard.twbx) 
+
+
 
 
