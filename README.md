@@ -15,6 +15,11 @@
     * Data Insights
     * Data Insights and Presentation
 
+## Code and Resources Used 
+**Python Version:** 3.7  
+**Packages:** pandas, numpy, matplotlib  
+**Link:** [InsideSherpa KPMG Experience](https://in.insidesherpa.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship)
+
 ## Data Quality Assessment
 
 Assessment of the quality of provided data and completeness in preparation for analysis. Skills gained are Data Quality Analysis and Analytical Dashboard Creation.
