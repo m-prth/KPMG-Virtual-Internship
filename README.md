@@ -39,6 +39,7 @@ The use of visualizations to present data insights. I now know about Data dashbo
 * [Presentation on Data Insights](https://github.com/m-prth/KPMG-Virtual-Internship/blob/master/Module_2.pptx)
 * [Tableau Dashboard](https://github.com/m-prth/KPMG-Virtual-Internship/blob/master/Dashboard.twbx) 
 
+Parth Mistry © 2020
 
 
 
